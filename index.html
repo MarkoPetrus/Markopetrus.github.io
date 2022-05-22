@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ant_World</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="css/normalize.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script type="text/javascript" src="js.js"></script>
+	</head>
+	<body>
+	<!-- HEADER -->
+	<header class="header">
+		<div class="container">
+			<h1>Світ мурах</h1>
+			<h2>
+				<small>Форми та договори лише для естетики.</small>
+			</h2>
+		</div>
+	</header>
+	<!-- /HEADER -->
+	<!-- NAVIGATION -->
+	<nav class="page-navigation">
+		<div class="container">
+			<ul>
+				<li><a href="README.md">Договір</a></li>
+				<li><a href="quiz.html">Вікторина</a></li>
+			</ul>
+
+			<!-- LOGIN FORM -->
+			<form action="#" class="login">
+				<input type="text" placeholder="Login" required>
+				<input type="password" placeholder="Password" required>
+				<input type="submit" value="Sign In">
+			</form>
+			<!-- /LOGIN FORM -->
+		</div>
+	</nav>
+	<!-- /NAVIGATION -->
+	<!-- MAIN SECTION -->
+	<main>
+		<div class="container">
+			<h2 class="collection-title">Ієрархія мурах: <small><small>Різні роботи та мурах що їх виконують.</small></small></h2>
+			<div class="collections">
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<div>
+						  <img id="getImage" src="images/Q.jpg" alt="List picture" width="" height="">
+						</div>
+						<div class="collection-text">
+							<h3>Королі та королеви</h3>
+							<p>Найбільший вид мурах на землі - Мураха-куля, що досягає 2.5 см в довжину і має жало з агонізуючою отрутою що
+							діє до 24 годин в ньому. Цей вид мурах так назвали через нестерпно болючі укуси, що мають четвертий(найвищий) рівень болю
+							за Шкалою сили укусу Шмідта.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+							<input type="button" onclick="imagefun()" value="Swap Image">
+						</div>
+					</div>
+				</div>
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<img src="images/3.jpg" alt="List picture" width="" height="">
+						<div class="collection-text">
+							<h3>Американська мураха жнець</h3>
+							<p>Цей вид мурах це найотруйніші комахи у світі. Вони мають потужні мандибули, якими вони прокусують шкіру жертви
+							і смертельно отруйні жала. Достатньо 12 укусів щоби вбити щура, а після 350 помре людина. Коли атакують вони впиваються
+							в жертву і жалять її, після чого випускають феромони що попереджають інших мурах про напад, через що за невелику кількість
+							часу на жертві вже буде декілька десятків мурах.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<img src="images/6.jpg" alt="List picture" width="" height="">
+						<div class="collection-text">
+							<h3>Бродячі Мурахи</h3>
+							<p>Один з прикладів кочових видів мурах це Бодячі Мурахи. Вони пересуваються на нове місце щодня, їх можна відрізнити за
+							червоно-оранжевим жалом. Їхні колонії можуть мати до 22 млн осіб і вони атакують все: рептилій,
+							птахів, плазунів та інших істот, включаючи людей.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<h2 class="collection-title">Цікаві види: <small><small>Зустріч з ними не бажана.</small></small></h2>
+			<div class="collections">
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<img src="images/1.jpg" alt="List picture" width="" height="">
+						<div class="collection-text">
+							<h3>Мураха-куля</h3>
+							<p>Найбільший вид мурах на землі - Мураха-куля, що досягає 2.5 см в довжину і має жало з агонізуючою отрутою що
+							діє до 24 годин в ньому. Цей вид мурах так назвали через нестерпно болючі укуси, що мають четвертий(найвищий) рівень болю
+							за Шкалою сили укусу Шмідта.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<img src="images/3.jpg" alt="List picture" width="" height="">
+						<div class="collection-text">
+							<h3>Американська мураха жнець</h3>
+							<p>Цей вид мурах це найотруйніші комахи у світі. Вони мають потужні мандибули, якими вони прокусують шкіру жертви
+							і смертельно отруйні жала. Достатньо 12 укусів щоби вбити щура, а після 350 помре людина. Коли атакують вони впиваються
+							в жертву і жалять її, після чого випускають феромони що попереджають інших мурах про напад, через що за невелику кількість
+							часу на жертві вже буде декілька десятків мурах.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<img src="images/6.jpg" alt="List picture" width="" height="">
+						<div class="collection-text">
+							<h3>Бродячі Мурахи</h3>
+							<p>Один з прикладів кочових видів мурах це Бодячі Мурахи. Вони пересуваються на нове місце щодня, їх можна відрізнити за
+							червоно-оранжевим жалом. Їхні колонії можуть мати до 22 млн осіб і вони атакують все: рептилій,
+							птахів, плазунів та інших істот, включаючи людей.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<h2 class="collection-title">Цікаві види: <small><small>Зустріч з ними не бажана.</small></small></h2>
+			<div class="collections">
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<img src="images/1.jpg" alt="List picture" width="" height="">
+						<div class="collection-text">
+							<h3>Мураха-куля</h3>
+							<p>Найбільший вид мурах на землі - Мураха-куля, що досягає 2.5 см в довжину і має жало з агонізуючою отрутою що
+							діє до 24 годин в ньому. Цей вид мурах так назвали через нестерпно болючі укуси, що мають четвертий(найвищий) рівень болю
+							за Шкалою сили укусу Шмідта.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<img src="images/3.jpg" alt="List picture" width="" height="">
+						<div class="collection-text">
+							<h3>Американська мураха жнець</h3>
+							<p>Цей вид мурах це найотруйніші комахи у світі. Вони мають потужні мандибули, якими вони прокусують шкіру жертви
+							і смертельно отруйні жала. Достатньо 12 укусів щоби вбити щура, а після 350 помре людина. Коли атакують вони впиваються
+							в жертву і жалять її, після чого випускають феромони що попереджають інших мурах про напад, через що за невелику кількість
+							часу на жертві вже буде декілька десятків мурах.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<img src="images/6.jpg" alt="List picture" width="" height="">
+						<div class="collection-text">
+							<h3>Бродячі Мурахи</h3>
+							<p>Один з прикладів кочових видів мурах це Бодячі Мурахи. Вони пересуваються на нове місце щодня, їх можна відрізнити за
+							червоно-оранжевим жалом. Їхні колонії можуть мати до 22 млн осіб і вони атакують все: рептилій,
+							птахів, плазунів та інших істот, включаючи людей.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<h2 class="collection-title">Цікаві відео: <small><small>Жодна мураха не постраждала при зйомці.</small></small></h2>
+			<div class="collections">
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<video controls>
+							<source src="videos/vid1.mp4" type="video/mp4">
+						</video>
+						<div class="collection-text">
+							<h3>Спіраль смерті:</h3>
+							<p>Унікальний феномен з цього відео називається Спіраль смерті.
+								Він виникає коли шлях мурашиного феромону відпадає від основної
+								дороги і замикається в круг. Так як мурахи думають що йдуть
+								до цілі, вони слідують за феромоном, намотуючи кола до того часу,
+								поки не помруть з голоду.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<video controls>
+							<source src="videos/vid2.mp4" type="video/mp4">
+						</video>
+						<div class="collection-text">
+							<h3>Процес утворення гнізда:</h3>
+							<p>В цьому відео показано як невелика домашня колонія мурах
+								викопує нові тунелі в недавно доданій силіконовій секції їхньої
+								ферми. Ви побачите як вони відривають малі кусочки і міліметр за
+								міліметром прокопують тунелі в новій формі. Не забувайте що
+								відео прискорене в декілька разів.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+				<div class="collection-item-outer">
+					<div class="collection-item">
+						<video controls>
+							<source src="videos/vid3.mp4" type="video/mp4">
+						</video>
+						<div class="collection-text">
+							<h3>Полювання бродячих мурах:</h3>
+							<p>Бродячі мурахи-один з кочових видів мурах.Вони
+								переміщаються з місця на місце хочаби один раз щодня.
+								Між рухом вони стають табором і полюють. В цьому
+								відео ви побачите один з таких "таборів" і прослідкуєте
+								за їхнім полюванням.
+							</p>
+							<button onclick="showText(this)">Розгорнути</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</main>
+	<!-- /MAIN SECTION -->
+	<!-- FOOTER -->
+	<footer class="footer">
+		<div class="container">
+			<p>Ant_World © Ant_World.com 2022</p>
+		</div>
+	</footer>
+	<!-- /FOOTER -->
+	</body>
+</html>
