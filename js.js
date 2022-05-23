@@ -7,15 +7,3 @@ function showText (el) {
 		el.innerHTML = "Розгорнути";
 	}
 }
-function imagefun() {
-            var Image_Id = document.getElementById('getImage');
-            if (Image_Id.src.match("images/Q.jpg")) {
-                Image_Id.src = "images/K.jpg";
-            }
-            else if ((Image_Id.src.match("images/K.jpg")) {
-            	Image_Id.src = "images/Q+K.jpg"
-            }
-						else {
-                Image_Id.src = "images/Q.jpg";
-            }
-        }
