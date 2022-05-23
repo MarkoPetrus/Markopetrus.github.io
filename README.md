@@ -1,72 +1,24 @@
 Remember, that all of the agreements/data you put into this site will not be collected.
 This document was copied from a google page and does not have any use as of now. Please enjoy your stay on our site.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 AGREEMENT
 
-
-
 In consideration of the foregoing, the mutual covenants contained in this Agreement, and for other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
-
-
 
 1.
 Definitions.  Capitalized terms not otherwise defined herein shall have the respective meanings given to them below:
 
 “Affiliate” of a party shall mean any corporation or other business entity controlling, controlled by, or under common control with such party.
 
-
-
 “Bankruptcy Event” means that, with respect to an entity, such entity shall (a) make a general assignment for the benefit of creditors or an agent authorized to liquidate its assets, (b) become the subject of bankruptcy or insolvency proceedings or other proceedings for relief under any bankruptcy or other law for the relief of debtors, where, with respect to an involuntary petition in bankruptcy, the petition shall not have been stayed within sixty (60) days, (c) apply to a court for the appointment of a receiver or custodian for substantially all of its assets or properties, with or without consent, and such receiver is not discharged within sixty (60) days after appointment, or (d) adopt a plan of complete liquidation of its assets.
-
-
 
 “Know-How” means the step-by-step instructions for chemical formulation and mixing process (approximately two pages in content) necessary to produce the Licensed Product.
 
-
-
-
-
-
-
-
-
-
-
-
 “Licensed Product” means the acne product category for all Nitric Oxide  products developed by Licensor for the Acne category.
-
-
 
 “Licensor Intellectual Property” means the Know-How, research, and other intellectual property rights and tangible embodiments thereof (in whatever form or medium) which relate to Licensed Product.
 
-
-
 “Statement of Work” shall be reasonable instructions given by Licensor to Licensee, from time to time, in addition to specifications and quality standards that Licensee is required to adhere to under this Agreement.
-
-
 
 2.
 Exclusive License.
@@ -83,14 +35,7 @@ The right to sublicense, at a minimum of six months after the Effective Date, to
 (b)
 Development Fee.  The Licensee will pay a development fee of ** to Health Innovations, Inc.   The monies will be paid according to the following schedule:
 
-
-
-
-
-
 2
-
-
 
 (i)
 **, receipt of which is hereby acknowledged.
@@ -101,15 +46,11 @@ Development Fee.  The Licensee will pay a development fee of ** to Health Innova
 (iii)
 The non-refundable development fee will be deemed earned upon achieving the following milestones:
 
-
-
  1) Finalization of Formulation
 **
 
  2) Completion of the OTC testing
 **
-
-
 
 (c)
 Exclusivity.  The foregoing rights shall be exclusive to Licensee for a minimum period of twelve (12) months from the date of the completion and stability testing of the OTC version of the Acne Formulations.  The completion and stability testing of the OTC version of the Acne Formulation must occur within four (4) months of the execution of this Agreement.  If, after those twelve (12) months from the completion of the OTC testing, Licensee does not meet the minimum performance requirements as outlined in paragraph 2(e), the Exclusive License will convert to a non-exclusive license for the Acne Product Category.  In the event that the Exclusive License converts to a Non-Exclusive License, Licensee would retain the rights to sub-license non-exclusive rights to third parties.
@@ -120,14 +61,7 @@ Non-Compete.  If Licensee meets the Minimum Performance Requirements as outlined
 (e)
 Minimum Performance.  If Licensee is able to sublicense the Licensed Product in accord with the terms outlined in paragraph 2(c), thereby converting the license to an exclusive license, in order to maintain exclusivity, Licensee shall be required to accomplish Minimum Performance requirements.  The time at which the Licensee will be required to begin attaining the Minimum Performance requirements will commence when the products have been completed for OTC requirements and stability testing has been completed..  Upon the Minimum Performance Commencement, Licensee shall be required to accomplish a Minimum Performance of at least ** in top-line gross revenue to licensee for the first 12 months after OTC testing is successfully completed.
 
-
-
-
-
-
 3
-
-
 
 The minimum total top line revenue to licensee for year 2 to maintain an exclusive license is **, Year 3 ** Year 4 **, Year 5 **, Year 6 **, Year 7 and all years beyond Year 7 the minimum top line revenue to Licensee to maintain an exclusive license is **. If Licensee is short of the minimum dollar requirements in any year, Licensee can pay licensor the royalty amount that Licensor would have received if the minimum were met during that 12 month period to retain exclusivity.  If minimum top-line revenues are not met, and the minimum royalty is not paid this agreements automatically converts to a non-exclusive license for the Acne category.
 
@@ -143,12 +77,7 @@ Royalty.  Licensee shall pay Licensor a ** royalty of all gross profit from the 
 (b)
 Payment of Royalty.  Licensee shall provide Licensor with quarterly written reports within fifteen (15) days after the end of each calendar quarter during the term of this Agreement, stating in each such report the number and description of Licensor products sold
 
-
-
-
 4
-
-
 
 and the aggregate amount of top-line gross revenue invoiced by Licensee and gross profit attained during the preceding quarter.  Together with the delivery of each such report, Licensee shall pay to Licensor the royalties, if any, that are due to Licensor for the period of such report.  If no royalties are due, Licensee shall so report.
 
@@ -164,14 +93,7 @@ Quality Controls.   Licensor shall have the right to and shall control the natur
 5.
 Product Labeling.  Licensor shall have the option of including the statement on the product label, “Manufactured Under License by Health Innovations, Inc.” on each individual product manufactured under this Agreement or any Sub-licensee agreement.  Licensee shall have
 
-
-
-
-
-
 5
-
-
 
 the right to list “Patent Pending” on the product label and put the relevant patent numbers on the products when relevant patents are issued.
 
@@ -190,14 +112,7 @@ Licensor Obligations with Respect to Licensee Confidential Information.  Licenso
 (ii)
 Licensee Obligations with Respect to Licensor Confidential Information.  Licensee agrees to hold all confidential information of Licensor, including without limitation, any information relating to Licensor’s business operations and all other information disclosed by Licensor (“Licensor Confidential Information”), in strict confidence and not to use any of the foregoing commercially for its own benefit or that of anyone else.  Licensee agrees to limit dissemination of and access to Licensor Confidential Information only to the persons within Licensee and its Affiliates, and their respective third party contractors, subcontractors, manufacturers and business partners who have a need for access thereto, and who have entered into a restrictive agreement
 
-
-
-
-
-
 6
-
-
 
 prohibiting such personnel from doing anything with respect to Licensor Confidential Information and such information that Licensee would itself be prohibited from doing under this Agreement.
 
@@ -228,14 +143,7 @@ Upon a Bankruptcy Event of Licensee, Licensee shall notify Licensor thereof with
 (ii)
 Upon the failure of Licensee to pay to Licensor monies when due by Licensee to Licensor under this Agreement, Licensor may give notice to
 
-
-
-
-
-
 7
-
-
 
 Licensee of such non-payment.  Thereafter, if Licensee fails to pay such monies to Licensor within ten (10) business days of such notice, then this Agreement shall terminate on that tenth business day.  If Licensee pays the monies due to Licensor within those ten business days, then this Agreement shall not terminate.
 
@@ -257,12 +165,7 @@ Upon a material breach of this Agreement by Licensor, Licensee may give notice t
 (d)
 Effect of Termination.  Upon the termination of this Agreement, Licensee agrees to immediately cease using the Licensor Intellectual Property; provided, however, that Licensee shall have the right to use or sell any manufactured Licensor products using the Licensor Intellectual Property existing at the time of termination.  No termination of this Agreement shall affect the rights of Licensor to accrued royalties due and owing on gross profit as of the date of
 
-
-
-
 8
-
-
 
 termination, to royalties on the sale of all inventory on hand which is sold subsequent to the date of termination, and to statements of account with any royalty payment that is made after the termination date.  
 
@@ -296,14 +199,7 @@ Licensor is the sole legal and beneficial owner of the Licensor Intellectual Pro
 (b)
 Licensee’s Representations and Warranties.  Licensee hereby represents and warrants to Licensor that:
 
-
-
-
-
-
 9
-
-
 
 (i)
 It has the full power, capacity, and right to enter into this Agreement;
@@ -332,14 +228,7 @@ Licensor’s Indemnification.  Licensor shall indemnify, defend and hold License
 (b)
 Licensee’s Indemnification.  Licensee agrees to indemnify, defend and hold harmless Licensor and Licensor’s successor,  assigns, officers, directors, employees and agents (each, a “Licensee Indemnified Party”) from and against any and all Losses (as defined in Section 12(a) above) incurred or suffered by any Licensee Indemnified
 
-
-
-
-
-
 10
-
-
 
 Party arising out of, in connection with or resulting from any claim, allegation or judgment as to any inaccuracy or breach in any of Licensee’s representations and warranties under this Agreement.  Additionally, Licensee shall assume full responsibility for the manufacturing, distribution, marketing, advertising and sale of the Licensed Products and shall indemnify and hold Licensor harmless with respect to any and all claims, losses, obligations, liabilities, including product liability or strict liability in tort, caused by any defects or alleged defects in the Licensed Products, plus costs and expenses, including legal and other fees, with respect to the defense of any such claims, even if such claims arise after termination of this Agreement.  Such indemnification applies to all claims arising from violations of laws, ordinances, or regulations by Licensee or a Sub-licensee.  Licensee shall obtain and maintain, at its expense, adequate insurance covering any claims or suits arising out of the sale or distribution of the Licensed Products, said insurance, with minimum insured limits of One Million Dollars ($1,000,000) to name Licensor as an additional insured party and to provide that it may not be canceled without at least ninety (90) days prior written notice to Licensor.
 
@@ -361,14 +250,7 @@ Innovations.
 (a)
 Innovations by Licensor.  Any and all improvements, modifications, derivatives and the like, whether conceived by Licensor or Licensee, for the Licensor Intellectual Property hereafter developed by Licensor shall automatically be included within the Licensor Intellectual Property licensed under this Agreement at no additional cost to Licensee.   Licensor shall promptly disclose such improvements, modifications, derivatives and the like to Licensee.  
 
-
-
-
-
-
 11
-
-
 
 13.
 Survival.  Any provision of this Agreement which contemplates performance or the existence of rights or obligations after the termination of this Agreement shall expressly survive such termination of this Agreement and shall be binding upon the party or parties obligated thereby in accordance with the terms of this Agreement, subject to any limitations expressly set forth in this Agreement.
@@ -391,12 +273,7 @@ Injunctive Relief.  Each of the parties acknowledge and agree that the other par
 (d)
 Fees.  In the event any party to this Agreement breaches its obligations, representations, warranties or covenants hereunder, and the Party not in default is required to resort to legal means to enforce this Agreement’s terms, the prevailing Party shall be entitled to
 
-
-
-
 12
-
-
 
 receive from the defaulting party the costs and expenses of such enforcement, including reasonable attorneys’ fees, whether before or after any arbitration action or judgment.
 
@@ -411,12 +288,9 @@ Equity Labs, Inc.
 
 517 West 100 North, Suite 201
 
-
 Providence, UT  84332
 
 Attn: Scott Stewart
-
-
 
 If to Licensor:
 Health Innovations, Inc.
@@ -427,11 +301,7 @@ Provo, UT  84601
 
 Attn:  Dale Fillmore
 
-
-
 or such other address or facsimile number as any of the persons designated above may have specified in a notice or communication duly given to the other designated person as provided herein.
-
-
 
 18.
 Binding Effect; Non-Assignability.  This Agreement shall be binding upon and enforceable against the parties hereto and their respective successors and permitted assigns.  Neither party shall assign its rights and obligations under this Agreement without the prior written consent of the other party, which consent shall not be unreasonably withheld; provided, however, that either party may assign this Agreement to an affiliate of such party.
@@ -442,14 +312,7 @@ Relationship of the Parties.  The parties are and at all times shall be deemed t
 20.
 Entire Agreement.  This Agreement contains the sole and complete understanding of the parties related to its subject matter for the Acne Product Category, and supersedes all oral or written agreements including the Feb. 2, 2011 agreement between GeNOsys, Inc. and Equity Labs, Inc. concerning this subject matter made prior to the date of this Agreement.  The parties
 
-
-
-
-
-
 13
-
-
 
 may enter into separate license agreements for other product categories that are independent of this agreement.
 
@@ -462,53 +325,25 @@ Bankruptcy Provisions.  It is intended by the parties to this Agreement that in 
 23.
 Third Party Beneficiaries.  No person or entity shall be a third-party beneficiary of this Agreement.
 
-
-
-
-
-
-
-
 14
-
-
-
-
 
 IN WITNESS WHEREOF, the parties enter into this Agreement effective as of the Amendment Effective Date.
 
-
-
-
-
 LICENSOR:
 
-
-
 Health Innovations, Inc.
-
-
 
 By:       /s/ John W.R. MillerBy:
 /s/ Dale Fillmore
 
 Name:John W.R. MillerName: Dale Fillmore
 
-
 Title:CEO – GeNOsys, Inc.Title:
  President – GeNOsys, Inc.
 
-
-
-
-
 LICENSEE:
 
-
-
 Equity Labs, Inc.
-
-
 
 By:
 /s/ Scott Stewart
@@ -519,20 +354,7 @@ Name:
 Title:
  V.P. - Development
 
-
-
-
-
-
-
-
-
 The “**” marks the location of information that has been omitted and filed separately with the Securities and Exchange Commission pursuant to a request for confidential treatment.
-
-
-
-
-
 
 15
 
